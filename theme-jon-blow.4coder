@@ -1,6 +1,5 @@
 // Created by: Kristian Ramsamooj
 // @Note: this is ARGB format
-// A 4coder theme based on Jonathan Blow's emacs file, created by yours truly 8) 
 
 // background color 
 defcolor_back                  = 0xFF052328;
@@ -14,25 +13,25 @@ defcolor_cursor                = {0xFF90EE90, 0xFFFF4040};
 defcolor_at_cursor             = defcolor_back;
 defcolor_highlight_cursor_line = 0xFF121E12;
 defcolor_highlight             = 0xFF703419;
-defcolor_mark = 0xFF808080;
-defcolor_text_default = 0xFFB4A485;
-defcolor_at_highlight      = 0xFFCDAA7D;
-defcolor_comment           = 0xFF3FDF1F;
-defcolor_comment_pop       = {0xFF00A000, 0xFFA00000};
-defcolor_keyword           = 0xFFADE6B3;
-defcolor_str_constant      = 0xFF0FDFAF;
-defcolor_char_constant     = defcolor_str_constant;
-defcolor_int_constant      = 0xFFE1F4FF; 
-defcolor_float_constant    = defcolor_int_constant;
-defcolor_bool_constant     = defcolor_int_constant;
-defcolor_include           = defcolor_str_constant;
-defcolor_preproc           = defcolor_keyword;
-defcolor_special_character = 0xFFFF0000;
-defcolor_ghost_character   = 0xFF5B4D3C;
-defcolor_highlight         = 0xFFFFC0CB;
-defcolor_at_highlight      = 0xFF303030; 
-defcolor_base              = 0xFF000000;
-defcolor_bar               = 0xFFB4A485;
+defcolor_mark                  = 0xFF808080;
+defcolor_text_default          = 0xFFB4A485;
+defcolor_at_highlight          = 0xFFCDAA7D;
+defcolor_comment               = 0xFF3FDF1F;
+defcolor_comment_pop           = {0xFF00A000, 0xFFA00000};
+defcolor_keyword               = 0xFFADE6B3;
+defcolor_str_constant          = 0xFF0FDFAF;
+defcolor_char_constant         = defcolor_str_constant;
+defcolor_int_constant          = 0xFFE1F4FF; 
+defcolor_float_constant        = defcolor_int_constant;
+defcolor_bool_constant         = defcolor_int_constant;
+defcolor_include               = defcolor_str_constant;
+defcolor_preproc               = defcolor_keyword;
+defcolor_special_character     = 0xFFFF0000;
+defcolor_ghost_character       = 0xFF5B4D3C;
+defcolor_highlight             = 0xFFFFC0CB;
+defcolor_at_highlight          = 0xFF303030; 
+defcolor_base                  = 0xFF000000;
+defcolor_bar                   = 0xFFB4A485;
 
 defcolor_paste = 0xFFFFBB00;
 defcolor_undo = 0xFF80005D;
